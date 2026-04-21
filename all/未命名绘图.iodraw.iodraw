@@ -57,7 +57,7 @@
         <mxCell id="bBzkUz14n_Fx1Kf-9Q0W-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bBzkUz14n_Fx1Kf-9Q0W-27" target="bBzkUz14n_Fx1Kf-9Q0W-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bBzkUz14n_Fx1Kf-9Q0W-29" value="&lt;ul&gt;&lt;li&gt;DP：/data1/datagrand/application/deploy_document_process_v2&lt;/li&gt;&lt;li&gt;QA：/data1/datagrand/application/deploy_qa-v3.4.0&lt;/li&gt;&lt;li&gt;KMS：/data1/datagrand/application/pangu_deploy-kmsv5.6.0_stable&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="bBzkUz14n_Fx1Kf-9Q0W-29" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;DP：/data1/datagrand/application/deploy_document_process_v2&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;QA：/data1/datagrand/application/deploy_qa-v3.4.0&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;KMS：/data1/datagrand/application/pangu_deploy-kmsv5.6.0_stable&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-36" y="130" width="450" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bBzkUz14n_Fx1Kf-9Q0W-30" value="部署目录" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
