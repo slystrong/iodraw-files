@@ -61,15 +61,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EowFh2oq6-aL_5L4z2_m-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="EowFh2oq6-aL_5L4z2_m-5" target="EowFh2oq6-aL_5L4z2_m-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="360" />
+              <mxPoint x="190" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EowFh2oq6-aL_5L4z2_m-13" value="搜索" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EowFh2oq6-aL_5L4z2_m-11">
           <mxGeometry x="0.3111" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="EowFh2oq6-aL_5L4z2_m-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="EowFh2oq6-aL_5L4z2_m-9" target="EowFh2oq6-aL_5L4z2_m-14">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
